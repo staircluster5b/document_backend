@@ -17,4 +17,14 @@
 - [x] **Mã nguồn (Source code) phân tích:** Xem cách `HashMap` xử lý Collision (Hash bucket, Treeify) và `ConcurrentHashMap` (Lock stripping).
 - [x] **Lựa chọn cấu trúc dữ liệu:** Khi nào dùng `ArrayList` vs `LinkedList`, `HashSet` vs `TreeSet` dựa trên độ phức tạp thuật toán (Big O).
 - [x] **Fail-fast vs Fail-safe:** Phân biệt cơ chế Iteration trong môi trường đa luồng.
-- [ ] **Biến và Kiểu dữ liệu:** Phân biệt kiểu nguyên thủy (int, double, boolean, char) và kiểu tham chiếu (String).
+- [x] **Biến và Kiểu dữ liệu:** Phân biệt kiểu nguyên thủy (int, double, boolean, char) và kiểu tham chiếu (String).
+
+### 1.3 Multithreading & Concurrency (Lập trình đa luồng)
+- [ ] **Thread Lifecycle & Synchronization:** Hiểu sâu cơ chế `synchronized`, `volatile`, `ReentrantLock`, và `ReadWriteLock`.
+- [ ] **Executor Framework:** ThreadPoolExecutor, ForkJoinPool, CompletableFuture, và Reactive Programming.
+- [ ] **Concurrent Collections:** Sử dụng `BlockingQueue`, `ConcurrentSkipListMap`, `CopyOnWriteArrayList` trong môi trường production.
+
+### 1.4 Java I/O và NIO (New I/O)
+- [ ] **Blocking vs Non-blocking I/O:** Phân biệt IO truyền thống và NIO/NIO.2, Selector, Channel, Buffer.
+- [ ] **File System API (NIO.2):** Path, Files, FileVisitor, WatchService cho file monitoring.
+- [ ] **Asynchronous I/O:** `AsynchronousFileChannel`, callback vs future-based APIs.
