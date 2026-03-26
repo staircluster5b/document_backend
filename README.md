@@ -9,7 +9,7 @@
 
 ### 1.1 Quản lý Bộ nhớ & JVM (Java Virtual Machine)
 - [x] **Tìm hiểu cấu trúc bộ nhớ JVM:** Phân biệt rõ Heap, Stack, Metaspace (trước đây là PermGen).
-- [ ] **Cơ chế Garbage Collection (GC):** Nghiên cứu các thuật toán G1, ZGC, Shenandoah. Hiểu khi nào thì xảy ra "Stop-the-world".
+- [x] **Cơ chế Garbage Collection (GC):** Nghiên cứu các thuật toán G1, ZGC, Shenandoah. Hiểu khi nào thì xảy ra "Stop-the-world".
 - [ ] **JVM Tuning:** Cách sử dụng các tham số `-Xms`, `-Xmx`, `-XX:MaxMetaspaceSize` để tối ưu ứng dụng.
 - [ ] **Memory Leak:** Nhận diện rủi ro rò rỉ bộ nhớ (Static references, Unclosed resources) và cách dùng công cụ Profiler (VisualVM, JProfiler).
 
