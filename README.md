@@ -17,3 +17,4 @@
 - [x] **Mã nguồn (Source code) phân tích:** Xem cách `HashMap` xử lý Collision (Hash bucket, Treeify) và `ConcurrentHashMap` (Lock stripping).
 - [ ] **Lựa chọn cấu trúc dữ liệu:** Khi nào dùng `ArrayList` vs `LinkedList`, `HashSet` vs `TreeSet` dựa trên độ phức tạp thuật toán (Big O).
 - [ ] **Fail-fast vs Fail-safe:** Phân biệt cơ chế Iteration trong môi trường đa luồng.
+- [ ] **Biến và Kiểu dữ liệu:** Phân biệt kiểu nguyên thủy (int, double, boolean, char) và kiểu tham chiếu (String).
