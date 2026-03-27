@@ -128,7 +128,7 @@
 ### 7.2 Advanced Data Architecture
 - [x] **Data Mesh & Domain-Oriented Ownership:** Self-serve data infrastructure, domain data products, federated governance. Transition từ monolithic data lake sang distributed data mesh.
 - [x] **Stream Processing at Scale:** Apache Flink internals (checkpointing, state backends, watermarking). Exactly-once processing semantics, windowing strategies, joining streams với different time characteristics.
-- [ ] **Vector Databases & AI Integration:** Embedding storage, similarity search (HNSW, IVF), hybrid search (dense + sparse). RAG architecture, prompt engineering infrastructure, model serving patterns.
+- [x] **Vector Databases & AI Integration:** Embedding storage, similarity search (HNSW, IVF), hybrid search (dense + sparse). RAG architecture, prompt engineering infrastructure, model serving patterns.
 
 ### 7.3 Emerging Technologies & Future Trends
 - [ ] **WebAssembly (WASM) in Backend:** WASI runtime, language-agnostic plugins, sandboxed execution. Edge computing với WASM, Cloudflare Workers architecture, performance comparison với containers.
