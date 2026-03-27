@@ -1,4 +1,4 @@
-# 🚀 Lộ Trình Nghiên Cứu: Từ Java Core Đến Senior Backend, Spring Boot, Spring Cloud Chuyên Nghiệp
+# 🚀 Lộ Trình Nghiên Cứu: Từ Java Core Đến Senior Backend, Spring Boot, Spring Cloud Chuyên Nghiệp. Giải phál hệ thống, giải pháp kiến trúc hệ thống ngân hàng
 
 > **Mục tiêu:** Làm chủ ngôn ngữ, thấu hiểu kiến trúc hệ thống, quản trị rủi ro và tối ưu hóa hiệu năng.
 
