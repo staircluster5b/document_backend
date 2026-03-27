@@ -53,7 +53,7 @@
 *Chuyển đổi từ lập trình viên Java thành kiến trúc sư hệ thống phân tán.*
 
 ### 3.1 Distributed Systems Fundamentals
-- [ ] **Consistency Models:** Linearizability vs Sequential vs Eventual consistency. CAP theorem, PACELC theorem. Trade-off trong thiết kế hệ thống phân tán.
+- [x] **Consistency Models:** Linearizability vs Sequential vs Eventual consistency. CAP theorem, PACELC theorem. Trade-off trong thiết kế hệ thống phân tán.
 - [ ] **Consensus Algorithms:** Raft và Paxos - cơ chế leader election, log replication. So sánh implementation (etcd, Consul, Zookeeper).
 - [ ] **Distributed Transactions:** 2PC, 3PC, Saga pattern. Compensating transactions và idempotency trong microservices.
 
