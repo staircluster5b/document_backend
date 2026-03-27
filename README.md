@@ -114,4 +114,23 @@
 ### 6.3 Production Operations & SRE Practices
 - [x] **Deployment Strategies & Release Engineering:** Blue-green deployments, canary releases, feature flags (LaunchDarkly, Unleash). Database migration strategies (Flyway, Liquibase), backward compatibility trong schema changes. CI/CD pipeline optimization, build caching, artifact management.
 - [x] **Chaos Engineering & Resilience Testing:** Chaos Monkey principles, failure injection (network latency, packet loss, service killing). Game day exercises, post-mortem culture, blameless incident reviews. Automated rollback triggers, circuit breaker monitoring, graceful degradation patterns.
-- [ ] **Performance Tuning & Capacity Planning:** Load testing với k6/Gatling, throughput vs latency trade-offs. JVM tuning trong containerized environments (CGroup awareness, container-aware ergonomics). Connection pool sizing (HikariCP optimization), thread pool tuning, backpressure handling. Vertical vs horizontal scaling decisions, autoscaling policies (KEDA, HPA).
+- [x] **Performance Tuning & Capacity Planning:** Load testing với k6/Gatling, throughput vs latency trade-offs. JVM tuning trong containerized environments (CGroup awareness, container-aware ergonomics). Connection pool sizing (HikariCP optimization), thread pool tuning, backpressure handling. Vertical vs horizontal scaling decisions, autoscaling policies (KEDA, HPA).
+
+---
+
+## 🚀 PHẦN 7: ADVANCED BACKEND ARCHITECTURE (ĐỀ XUẤT NGHIÊN CỨU TIẾP THEO)
+
+### 7.1 Financial Systems Architecture & Banking Domain
+- [ ] **Core Banking Integration Patterns:** ISO 20022 message standards, SWIFT MT/MX migration, payment gateways (NAPAS, Visa, Mastercard). Transaction integrity trong high-value transfers, reconciliation processes, end-of-day batch processing.
+- [ ] **Regulatory Compliance & Audit:** PCI-DSS implementation cho card data, GDPR data handling, SOX compliance cho financial reporting. Immutable audit logs, tamper-evident storage, data retention policies.
+- [ ] **High-Frequency Trading & Low-Latency Systems:** Lock-free algorithms, memory-mapped files, kernel bypass networking (DPDK). Time synchronization (PTP), co-location strategies, market data feed handlers.
+
+### 7.2 Advanced Data Architecture
+- [ ] **Data Mesh & Domain-Oriented Ownership:** Self-serve data infrastructure, domain data products, federated governance. Transition từ monolithic data lake sang distributed data mesh.
+- [ ] **Stream Processing at Scale:** Apache Flink internals (checkpointing, state backends, watermarking). Exactly-once processing semantics, windowing strategies, joining streams với different time characteristics.
+- [ ] **Vector Databases & AI Integration:** Embedding storage, similarity search (HNSW, IVF), hybrid search (dense + sparse). RAG architecture, prompt engineering infrastructure, model serving patterns.
+
+### 7.3 Emerging Technologies & Future Trends
+- [ ] **WebAssembly (WASM) in Backend:** WASI runtime, language-agnostic plugins, sandboxed execution. Edge computing với WASM, Cloudflare Workers architecture, performance comparison với containers.
+- [ ] **eBPF for Observability & Security:** Kernel-level tracing, network filtering, security policies. Cilium service mesh, Falco runtime security, continuous profiling (Parca, Pyroscope).
+- [ ] **Green Computing & Sustainable Software:** Carbon-aware computing, energy-efficient algorithms, carbon footprint measurement. Locale shifting, demand shifting, sustainable architecture patterns.
