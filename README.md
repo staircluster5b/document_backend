@@ -165,7 +165,7 @@
 
 ### 9.1 Real-Time Payment Systems & Modern Banking Infrastructure
 - [x] **Instant Payment Architecture:** ISO 20022 message standards, SEPA Instant, FedNow implementation. Real-time gross settlement (RTGS), liquidity management, và 24/7 operational requirements.
-- [ ] **Core Banking Modernization:** Legacy mainframe integration, API-first core banking, event-sourced account management. Strangler fig pattern cho migration, dual-write consistency.
+- [x] **Core Banking Modernization:** Legacy mainframe integration, API-first core banking, event-sourced account management. Strangler fig pattern cho migration, dual-write consistency.
 - [ ] **Cross-Border Payments & Settlement:** SWIFT gpi, correspondent banking networks, blockchain-based settlement. Regulatory compliance (AML/KYC), sanctions screening, và FX risk management.
 
 ### 9.2 Digital Identity, Privacy & Trust Architecture
