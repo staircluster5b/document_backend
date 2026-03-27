@@ -25,6 +25,6 @@
 - [x] **Concurrent Collections:** Sử dụng `BlockingQueue`, `ConcurrentSkipListMap`, `CopyOnWriteArrayList` trong môi trường production.
 
 ### 1.4 Java I/O và NIO (New I/O)
-- [ ] **Blocking vs Non-blocking I/O:** Phân biệt IO truyền thống và NIO/NIO.2, Selector, Channel, Buffer.
+- [x] **Blocking vs Non-blocking I/O:** Phân biệt IO truyền thống và NIO/NIO.2, Selector, Channel, Buffer.
 - [ ] **File System API (NIO.2):** Path, Files, FileVisitor, WatchService cho file monitoring.
 - [ ] **Asynchronous I/O:** `AsynchronousFileChannel`, callback vs future-based APIs.
