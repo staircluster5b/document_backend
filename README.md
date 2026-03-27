@@ -41,7 +41,7 @@
 
 ### 2.2 Java Memory Model (JMM)
 - [x] **Happens-Before Relationship:** Định nghĩa chính xác, các rules (program order, monitor unlock/lock, volatile, thread start/join, final fields), và ứng dụng để viết lock-free algorithms đúng đắn.
-- [ ] **Memory Barriers & Fences:** LoadLoad, StoreStore, LoadStore, StoreLoad fences. Cách JVM/hardware reorder instructions và cách prevent.
+- [x] **Memory Barriers & Fences:** LoadLoad, StoreStore, LoadStore, StoreLoad fences. Cách JVM/hardware reorder instructions và cách prevent.
 
 ### 2.3 Modern Java Features (Java 17-21 LTS)
 - [ ] **Virtual Threads Deep Dive:** Carrier threads, pinning, structured concurrency, scoped values. So sánh với reactive programming và traditional threads.
