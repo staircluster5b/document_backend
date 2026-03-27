@@ -139,3 +139,22 @@
 - [x] **Serverless Architecture Deep Dive:** AWS Lambda internals, cold start optimization strategies, provisioned concurrency. Function-as-a-Service patterns, step functions, event-driven serverless workflows. Trade-offs: latency vs cost, vendor lock-in mitigation with Knative/OpenFaaS.
 - [x] **Post-Quantum Cryptography & Zero-Knowledge Proofs:** Lattice-based cryptography, CRYSTALS-Kyber/Dilithium algorithms. zk-SNARKs/zk-STARKs for privacy-preserving verification, homomorphic encryption use cases. Migration strategies từ RSA/ECC trong hệ thống legacy.
 - [x] **AI-Native Application Architecture:** LLM serving infrastructure (vLLM, TensorRT-LLM), model quantization & distillation. Retrieval-Augmented Generation (RAG) at scale, vector search pipelines, agent orchestration frameworks (LangChain, AutoGPT). Cost optimization, token management, prompt caching strategies.
+
+---
+
+## 🌍 PHẦN 8: ADVANCED DISTRIBUTED SYSTEMS & EDGE COMPUTING (ĐỀ XUẤT NGHIÊN CỨU TIẾP THEO)
+
+### 8.1 Global Distributed Systems & Multi-Region Architecture
+- [ ] **Active-Active Multi-Region Design:** Conflict-free Replicated Data Types (CRDTs), conflict resolution strategies, vector clocks. Global consensus trong WAN environment, latency optimization qua geographic distribution.
+- [ ] **Edge Computing & CDN Deep Dive:** Cloudflare Workers, Fastly Compute@Edge, AWS Lambda@Edge. Edge caching strategies, request routing, và real-time personalization at edge.
+- [ ] **Global Database Systems:** Spanner TrueTime, CockroachDB distributed SQL, YugabyteDB. Linearizability across regions, clock synchronization, và trade-off availability vs consistency trong global context.
+
+### 8.2 Advanced Event-Driven Patterns & State Management
+- [ ] **Event Sourcing at Scale:** Event Store internals, temporal queries, event versioning. Snapshot strategies, projection rebuild optimization, và event schema evolution trong multi-year systems.
+- [ ] **CQRS Advanced Patterns:** Read model optimization, materialized view strategies. Separate write và read path optimization, eventual consistency mitigation patterns.
+- [ ] **State Machine Orchestration:** Temporal/Cadence workflow engines, saga pattern implementation. Long-running transaction orchestration, failure compensation, và deterministic replay.
+
+### 8.3 Hardware-Accelerated Backend Systems
+- [ ] **GPU Computing in Backend:** CUDA kernels, cuDNN optimization. AI inference acceleration, matrix multiplication optimization, và GPU memory management trong microservices.
+- [ ] **Custom Hardware Acceleration:** FPGA trong high-frequency trading, SmartNICs (AWS Nitro, Azure Boost). Offloading networking stack, zero-copy data path, và kernel bypass techniques.
+- [ ] **Quantum-Ready Cryptography Preparation:** Cryptographic agility, algorithm migration strategies. Quantum threat timeline, hybrid classical-quantum systems preparation.
