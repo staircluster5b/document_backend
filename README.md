@@ -21,7 +21,7 @@
 
 ### 1.3 Multithreading & Concurrency (Lập trình đa luồng)
 - [x] **Thread Lifecycle & Synchronization:** Hiểu sâu cơ chế `synchronized`, `volatile`, `ReentrantLock`, và `ReadWriteLock`.
-- [ ] **Executor Framework:** ThreadPoolExecutor, ForkJoinPool, CompletableFuture, và Reactive Programming.
+- [x] **Executor Framework:** ThreadPoolExecutor, ForkJoinPool, CompletableFuture, và Reactive Programming.
 - [ ] **Concurrent Collections:** Sử dụng `BlockingQueue`, `ConcurrentSkipListMap`, `CopyOnWriteArrayList` trong môi trường production.
 
 ### 1.4 Java I/O và NIO (New I/O)
