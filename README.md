@@ -79,5 +79,5 @@
 
 ### 4.2 Caching at Scale
 - [x] **Caching Patterns & Strategies:** Cache-aside, read-through, write-through, write-behind. Cache eviction policies, TTL design.
-- [ ] **Distributed Cache:** Redis Cluster internals, consistent hashing, cache warming, thundering herd problem.
+- [x] **Distributed Cache:** Redis Cluster internals, consistent hashing, cache warming, thundering herd problem.
 - [ ] **Multi-Level Caching:** L1/L2/L3 cache hierarchy, CDN, edge caching. Cache invalidation strategies.
