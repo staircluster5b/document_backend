@@ -171,7 +171,7 @@
 ### 9.2 Digital Identity, Privacy & Trust Architecture
 - [x] **Decentralized Identity (DID) & Verifiable Credentials:** W3C DID Core, Self-Sovereign Identity (SSI), verifiable credentials data model. Trust frameworks, revocation mechanisms, và interoperability standards.
 - [x] **Zero-Knowledge Proofs in Production:** zk-SNARKs/zk-STARKs implementation, privacy-preserving KYC/AML, anonymous credentials. Circuit design, trusted setup, và production deployment challenges.
-- [ ] **Confidential Computing & TEE:** Intel SGX, AMD SEV, ARM TrustZone. Secure enclaves for sensitive computation, remote attestation, và side-channel attack mitigation.
+- [x] **Confidential Computing & TEE:** Intel SGX, AMD SEV, ARM TrustZone. Secure enclaves for sensitive computation, remote attestation, và side-channel attack mitigation.
 
 ### 9.3 Regulatory Technology (RegTech) & Compliance Architecture
 - [ ] **Real-Time Transaction Monitoring:** AML/CFT compliance systems, suspicious activity detection, rule-based và ML-based detection. False positive management, alert prioritization, và regulatory reporting.
