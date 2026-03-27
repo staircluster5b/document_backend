@@ -75,7 +75,7 @@
 ### 4.1 Database Internals & Optimization
 - [x] **B-Tree vs LSM-Tree:** Storage engine internals, write amplification, read amplification. Trade-off giữa OLTP và OLAP.
 - [x] **Indexing Strategies:** B-Tree, Hash, GiST, GIN indexes. Composite index design, covering index, index-only scans.
-- [ ] **Query Optimization:** Execution plans, cost-based optimizer, statistics, histograms. Common query anti-patterns.
+- [x] **Query Optimization:** Execution plans, cost-based optimizer, statistics, histograms. Common query anti-patterns.
 
 ### 4.2 Caching at Scale
 - [ ] **Caching Patterns & Strategies:** Cache-aside, read-through, write-through, write-behind. Cache eviction policies, TTL design.
