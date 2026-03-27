@@ -133,4 +133,4 @@
 ### 7.3 Emerging Technologies & Future Trends
 - [x] **WebAssembly (WASM) in Backend:** WASI runtime, language-agnostic plugins, sandboxed execution. Edge computing với WASM, Cloudflare Workers architecture, performance comparison với containers.
 - [x] **eBPF for Observability & Security:** Kernel-level tracing, network filtering, security policies. Cilium service mesh, Falco runtime security, continuous profiling (Parca, Pyroscope).
-- [ ] **Green Computing & Sustainable Software:** Carbon-aware computing, energy-efficient algorithms, carbon footprint measurement. Locale shifting, demand shifting, sustainable architecture patterns.
+- [x] **Green Computing & Sustainable Software:** Carbon-aware computing, energy-efficient algorithms, carbon footprint measurement. Locale shifting, demand shifting, sustainable architecture patterns.
