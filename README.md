@@ -151,7 +151,7 @@
 
 ### 8.2 Advanced Event-Driven Patterns & State Management
 - [x] **Event Sourcing at Scale:** Event Store internals, temporal queries, event versioning. Snapshot strategies, projection rebuild optimization, và event schema evolution trong multi-year systems.
-- [ ] **CQRS Advanced Patterns:** Read model optimization, materialized view strategies. Separate write và read path optimization, eventual consistency mitigation patterns.
+- [x] **CQRS Advanced Patterns:** Read model optimization, materialized view strategies. Separate write và read path optimization, eventual consistency mitigation patterns.
 - [ ] **State Machine Orchestration:** Temporal/Cadence workflow engines, saga pattern implementation. Long-running transaction orchestration, failure compensation, và deterministic replay.
 
 ### 8.3 Hardware-Accelerated Backend Systems
