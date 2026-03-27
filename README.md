@@ -164,7 +164,7 @@
 ## 🏦 PHẦN 9: ENTERPRISE FINANCIAL SYSTEMS & NEXT-GENERATION ARCHITECTURE (ĐỀ XUẤT NGHIÊN CỨU TIẾP THEO)
 
 ### 9.1 Real-Time Payment Systems & Modern Banking Infrastructure
-- [ ] **Instant Payment Architecture:** ISO 20022 message standards, SEPA Instant, FedNow implementation. Real-time gross settlement (RTGS), liquidity management, và 24/7 operational requirements.
+- [x] **Instant Payment Architecture:** ISO 20022 message standards, SEPA Instant, FedNow implementation. Real-time gross settlement (RTGS), liquidity management, và 24/7 operational requirements.
 - [ ] **Core Banking Modernization:** Legacy mainframe integration, API-first core banking, event-sourced account management. Strangler fig pattern cho migration, dual-write consistency.
 - [ ] **Cross-Border Payments & Settlement:** SWIFT gpi, correspondent banking networks, blockchain-based settlement. Regulatory compliance (AML/KYC), sanctions screening, và FX risk management.
 
