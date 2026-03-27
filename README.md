@@ -80,4 +80,18 @@
 ### 4.2 Caching at Scale
 - [x] **Caching Patterns & Strategies:** Cache-aside, read-through, write-through, write-behind. Cache eviction policies, TTL design.
 - [x] **Distributed Cache:** Redis Cluster internals, consistent hashing, cache warming, thundering herd problem.
-- [ ] **Multi-Level Caching:** L1/L2/L3 cache hierarchy, CDN, edge caching. Cache invalidation strategies.
+- [x] **Multi-Level Caching:** L1/L2/L3 cache hierarchy, CDN, edge caching. Cache invalidation strategies.
+
+---
+
+## 🍃 PHẦN 5: SPRING FRAMEWORK INTERNALS (SẮP TỚI)
+*Đi sâu vào cách Spring Boot và Spring Cloud thực sự hoạt động.*
+
+### 5.1 Spring Core & Boot Internals
+- [ ] **Spring IoC Container:** Bean lifecycle, BeanFactory vs ApplicationContext, BeanPostProcessor, BeanDefinition. Cơ chế dependency injection và circular dependency resolution.
+- [ ] **Spring Boot Auto-Configuration:** @Conditional annotations, spring.factories, auto-configuration class ordering. Custom starter development và best practices.
+- [ ] **Spring Transaction Management:** @Transactional internals, proxy-based vs aspectj weaving, propagation levels, isolation levels. Transaction rollback behavior và common pitfalls.
+
+### 5.2 Spring Web & Reactive Stack
+- [ ] **Spring MVC Internals:** DispatcherServlet, HandlerMapping, HandlerAdapter, ViewResolver flow. Request mapping resolution, content negotiation, và message converters.
+- [ ] **Spring WebFlux & Project Reactor:** Mono vs Flux, backpressure handling, event loop model vs thread-per-request. Performance comparison và migration strategies từ MVC.
