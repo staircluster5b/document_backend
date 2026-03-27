@@ -46,3 +46,18 @@
 ### 2.3 Modern Java Features (Java 17-21 LTS)
 - [x] **Virtual Threads Deep Dive:** Carrier threads, pinning, structured concurrency, scoped values. So sánh với reactive programming và traditional threads.
 - [x] **Pattern Matching & Sealed Classes:** switch expressions, record patterns, sealed class hierarchy. Design patterns mới và migration từ OOP truyền thống.
+
+---
+
+## 🏗️ PHẦN 3: DISTRIBUTED SYSTEMS & BACKEND ARCHITECTURE
+*Chuyển đổi từ lập trình viên Java thành kiến trúc sư hệ thống phân tán.*
+
+### 3.1 Distributed Systems Fundamentals
+- [ ] **Consistency Models:** Linearizability vs Sequential vs Eventual consistency. CAP theorem, PACELC theorem. Trade-off trong thiết kế hệ thống phân tán.
+- [ ] **Consensus Algorithms:** Raft và Paxos - cơ chế leader election, log replication. So sánh implementation (etcd, Consul, Zookeeper).
+- [ ] **Distributed Transactions:** 2PC, 3PC, Saga pattern. Compensating transactions và idempotency trong microservices.
+
+### 3.2 High-Performance Networking
+- [ ] **Netty Deep Dive:** Event loop architecture, Channel pipeline, ByteBuf memory management. Zero-copy và backpressure handling.
+- [ ] **gRPC Internals:** HTTP/2 flow control, protobuf serialization, load balancing strategies. Deadlines, retries, và circuit breaker pattern.
+- [ ] **Reactive Streams:** Publisher-Subscriber model, backpressure protocol. Project Reactor vs RxJava vs Kotlin Flow.
