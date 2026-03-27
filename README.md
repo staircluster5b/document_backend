@@ -94,4 +94,4 @@
 
 ### 5.2 Spring Web & Reactive Stack
 - [x] **Spring MVC Internals:** DispatcherServlet, HandlerMapping, HandlerAdapter, ViewResolver flow. Request mapping resolution, content negotiation, và message converters.
-- [ ] **Spring WebFlux & Project Reactor:** Mono vs Flux, backpressure handling, event loop model vs thread-per-request. Performance comparison và migration strategies từ MVC.
+- [x] **Spring WebFlux & Project Reactor:** Mono vs Flux, backpressure handling, event loop model vs thread-per-request. Performance comparison và migration strategies từ MVC.
