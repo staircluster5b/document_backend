@@ -102,7 +102,7 @@
 *Kiến trúc bảo mật, giám sát và vận hành hệ thống backend ở quy mô enterprise.*
 
 ### 6.1 Security Architecture & Implementation
-- [ ] **Authentication & Authorization Patterns:** JWT internals (header/payload/signature, JWS/JWE), OAuth 2.0/OpenID Connect flows, session-based vs stateless auth. Token storage strategies, refresh token rotation, logout handling. Spring Security filter chain architecture, authentication providers, và authorization decision managers.
+- [x] **Authentication & Authorization Patterns:** JWT internals (header/payload/signature, JWS/JWE), OAuth 2.0/OpenID Connect flows, session-based vs stateless auth. Token storage strategies, refresh token rotation, logout handling. Spring Security filter chain architecture, authentication providers, và authorization decision managers.
 - [ ] **API Security Deep Dive:** Input validation frameworks (Bean Validation, custom validators), CSRF protection cho SPAs, rate limiting algorithms (token bucket, sliding window), SQL injection prevention, XSS mitigation. Secret management (HashiCorp Vault, AWS Secrets Manager) trong containerized environments.
 - [ ] **Transport & Infrastructure Security:** mTLS implementation, certificate pinning, TLS 1.3 handshake optimization. Service-to-service authentication trong microservices, SPIFFE/SPIRE workload identity. Network policies, WAF rules, và zero-trust architecture principles.
 
