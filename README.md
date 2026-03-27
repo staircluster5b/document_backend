@@ -109,7 +109,7 @@
 ### 6.2 Observability & Monitoring at Scale
 - [x] **Metrics & Alerting Systems:** Micrometer integration, Prometheus data model (counters, gauges, histograms, summaries), recording rules, federation. Alertmanager routing, silencing, inhibition. RED method (Rate, Errors, Duration) vs USE method (Utilization, Saturation, Errors) cho SLO/SLI definition.
 - [x] **Distributed Tracing:** OpenTelemetry collector architecture, span context propagation (W3C trace context, B3 headers), sampling strategies (head-based vs tail-based). Jaeger/Tempo storage backends, trace-to-log correlation. Performance overhead của instrumentation và head-based sampling optimization.
-- [ ] **Log Management & Analysis:** Structured logging (JSON format), log levels và cardinality concerns. Centralized logging với ELK/Loki, log aggregation patterns, retention policies. Correlation IDs cho request tracing across services, sensitive data masking trong logs.
+- [x] **Log Management & Analysis:** Structured logging (JSON format), log levels và cardinality concerns. Centralized logging với ELK/Loki, log aggregation patterns, retention policies. Correlation IDs cho request tracing across services, sensitive data masking trong logs.
 
 ### 6.3 Production Operations & SRE Practices
 - [ ] **Deployment Strategies & Release Engineering:** Blue-green deployments, canary releases, feature flags (LaunchDarkly, Unleash). Database migration strategies (Flyway, Liquibase), backward compatibility trong schema changes. CI/CD pipeline optimization, build caching, artifact management.
