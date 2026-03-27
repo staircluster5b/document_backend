@@ -55,7 +55,7 @@
 ### 3.1 Distributed Systems Fundamentals
 - [x] **Consistency Models:** Linearizability vs Serializability vs Eventual Consistency. CAP theorem đúng đắn, PACELC theorem thực tế. Trade-off trong thiết kế database và cache.
 - [x] **Consensus Algorithms:** Raft và Paxos - cơ chế leader election, log replication. So sánh implementation (etcd, Consul, Zookeeper).
-- [ ] **Distributed Transactions:** 2PC, 3PC, Saga pattern. Compensating transactions và idempotency trong microservices.
+- [x] **Distributed Transactions:** 2PC, 3PC, Saga pattern. Compensating transactions và idempotency trong microservices.
 
 ### 3.2 High-Performance Networking
 - [ ] **Netty Deep Dive:** Event loop architecture, Channel pipeline, ByteBuf memory management. Zero-copy và backpressure handling.
