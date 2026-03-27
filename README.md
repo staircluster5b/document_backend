@@ -27,4 +27,4 @@
 ### 1.4 Java I/O và NIO (New I/O)
 - [x] **Blocking vs Non-blocking I/O:** Phân biệt IO truyền thống và NIO/NIO.2, Selector, Channel, Buffer.
 - [x] **File System API (NIO.2):** Path, Files, FileVisitor, WatchService cho file monitoring.
-- [ ] **Asynchronous I/O:** `AsynchronousFileChannel`, callback vs future-based APIs.
+- [x] **Asynchronous I/O:** `AsynchronousFileChannel`, callback vs future-based APIs.
