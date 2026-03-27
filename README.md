@@ -155,6 +155,6 @@
 - [x] **State Machine Orchestration:** Temporal/Cadence workflow engines, saga pattern implementation. Long-running transaction orchestration, failure compensation, và deterministic replay.
 
 ### 8.3 Hardware-Accelerated Backend Systems
-- [ ] **GPU Computing in Backend:** CUDA kernels, cuDNN optimization. AI inference acceleration, matrix multiplication optimization, và GPU memory management trong microservices.
+- [x] **GPU Computing in Backend:** CUDA kernels, cuDNN optimization. AI inference acceleration, matrix multiplication optimization, và GPU memory management trong microservices.
 - [ ] **Custom Hardware Acceleration:** FPGA trong high-frequency trading, SmartNICs (AWS Nitro, Azure Boost). Offloading networking stack, zero-copy data path, và kernel bypass techniques.
 - [ ] **Quantum-Ready Cryptography Preparation:** Cryptographic agility, algorithm migration strategies. Quantum threat timeline, hybrid classical-quantum systems preparation.
