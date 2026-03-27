@@ -61,3 +61,23 @@
 - [x] **Netty Deep Dive:** Event loop architecture, Channel pipeline, ByteBuf memory management. Zero-copy và backpressure handling.
 - [x] **gRPC Internals:** HTTP/2 flow control, protobuf serialization, load balancing strategies. Deadlines, retries, và circuit breaker pattern.
 - [x] **Reactive Streams:** Publisher-Subscriber model, backpressure protocol. Project Reactor vs RxJava vs Kotlin Flow.
+
+### 3.3 Microservices & Cloud-Native Patterns
+- [ ] **Service Mesh Deep Dive:** Istio/Linkerd architecture, sidecar pattern, mTLS, traffic management. Data plane vs control plane.
+- [ ] **Circuit Breaker & Bulkhead Pattern:** Implementation với Resilience4j, failure isolation, cascading failure prevention.
+- [ ] **Event-Driven Architecture:** Kafka/RabbitMQ internals, event sourcing, CQRS, outbox pattern, idempotent consumers.
+
+---
+
+## 🗄️ PHẦN 4: DATABASE & PERFORMANCE OPTIMIZATION
+*Tối ưu hóa hiệu năng và thiết kế dữ liệu ở quy mô lớn.*
+
+### 4.1 Database Internals & Optimization
+- [ ] **B-Tree vs LSM-Tree:** Storage engine internals, write amplification, read amplification. Trade-off giữa OLTP và OLAP.
+- [ ] **Indexing Strategies:** B-Tree, Hash, GiST, GIN indexes. Composite index design, covering index, index-only scans.
+- [ ] **Query Optimization:** Execution plans, cost-based optimizer, statistics, histograms. Common query anti-patterns.
+
+### 4.2 Caching at Scale
+- [ ] **Caching Patterns & Strategies:** Cache-aside, read-through, write-through, write-behind. Cache eviction policies, TTL design.
+- [ ] **Distributed Cache:** Redis Cluster internals, consistent hashing, cache warming, thundering herd problem.
+- [ ] **Multi-Level Caching:** L1/L2/L3 cache hierarchy, CDN, edge caching. Cache invalidation strategies.
