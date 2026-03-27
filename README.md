@@ -28,3 +28,21 @@
 - [x] **Blocking vs Non-blocking I/O:** Phân biệt IO truyền thống và NIO/NIO.2, Selector, Channel, Buffer.
 - [x] **File System API (NIO.2):** Path, Files, FileVisitor, WatchService cho file monitoring.
 - [x] **Asynchronous I/O:** `AsynchronousFileChannel`, callback vs future-based APIs.
+
+---
+
+## 🔬 PHẦN 2: JVM INTERNALS & ADVANCED JAVA
+*Đi sâu vào cách JVM thực sự vận hành và các tính năng Java hiện đại.*
+
+### 2.1 Class Loading & Bytecode
+- [ ] **ClassLoader Hierarchy:** Bootstrap, Extension, Application ClassLoaders. Custom ClassLoader implementation và ứng dụng (hot-reload, plugin architecture, isolation).
+- [ ] **JVM Bytecode & JIT Compilation:** Cách JVM biên dịch bytecode, JIT tiers (C1, C2, Graal), inlining, escape analysis, và on-stack replacement (OSR).
+- [ ] **Java Agents & Instrumentation:** Premain, agentmain, Javassist, ByteBuddy cho AOP và monitoring.
+
+### 2.2 Java Memory Model (JMM)
+- [ ] **Happens-Before Relationship:** Định nghĩa chính xác, các rules (program order, monitor unlock/lock, volatile, thread start/join, final fields), và ứng dụng để viết lock-free algorithms đúng đắn.
+- [ ] **Memory Barriers & Fences:** LoadLoad, StoreStore, LoadStore, StoreLoad fences. Cách JVM/hardware reorder instructions và cách prevent.
+
+### 2.3 Modern Java Features (Java 17-21 LTS)
+- [ ] **Virtual Threads Deep Dive:** Carrier threads, pinning, structured concurrency, scoped values. So sánh với reactive programming và traditional threads.
+- [ ] **Pattern Matching & Sealed Classes:** switch expressions, record patterns, sealed class hierarchy. Design patterns mới và migration từ OOP truyền thống.
