@@ -126,7 +126,7 @@
 - [x] **High-Frequency Trading & Low-Latency Systems:** Lock-free algorithms, memory-mapped files, kernel bypass networking (DPDK). Time synchronization (PTP), co-location strategies, market data feed handlers.
 
 ### 7.2 Advanced Data Architecture
-- [ ] **Data Mesh & Domain-Oriented Ownership:** Self-serve data infrastructure, domain data products, federated governance. Transition từ monolithic data lake sang distributed data mesh.
+- [x] **Data Mesh & Domain-Oriented Ownership:** Self-serve data infrastructure, domain data products, federated governance. Transition từ monolithic data lake sang distributed data mesh.
 - [ ] **Stream Processing at Scale:** Apache Flink internals (checkpointing, state backends, watermarking). Exactly-once processing semantics, windowing strategies, joining streams với different time characteristics.
 - [ ] **Vector Databases & AI Integration:** Embedding storage, similarity search (HNSW, IVF), hybrid search (dense + sparse). RAG architecture, prompt engineering infrastructure, model serving patterns.
 
