@@ -44,5 +44,5 @@
 - [x] **Memory Barriers & Fences:** LoadLoad, StoreStore, LoadStore, StoreLoad fences. Cách JVM/hardware reorder instructions và cách prevent.
 
 ### 2.3 Modern Java Features (Java 17-21 LTS)
-- [ ] **Virtual Threads Deep Dive:** Carrier threads, pinning, structured concurrency, scoped values. So sánh với reactive programming và traditional threads.
+- [x] **Virtual Threads Deep Dive:** Carrier threads, pinning, structured concurrency, scoped values. So sánh với reactive programming và traditional threads.
 - [ ] **Pattern Matching & Sealed Classes:** switch expressions, record patterns, sealed class hierarchy. Design patterns mới và migration từ OOP truyền thống.
