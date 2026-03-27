@@ -158,3 +158,22 @@
 - [x] **GPU Computing in Backend:** CUDA kernels, cuDNN optimization. AI inference acceleration, matrix multiplication optimization, và GPU memory management trong microservices.
 - [x] **Custom Hardware Acceleration:** FPGA trong high-frequency trading, SmartNICs (AWS Nitro, Azure Boost). Offloading networking stack, zero-copy data path, và kernel bypass techniques.
 - [x] **Quantum-Ready Cryptography Preparation:** Cryptographic agility, algorithm migration strategies. Quantum threat timeline, hybrid classical-quantum systems preparation.
+
+---
+
+## 🏦 PHẦN 9: ENTERPRISE FINANCIAL SYSTEMS & NEXT-GENERATION ARCHITECTURE (ĐỀ XUẤT NGHIÊN CỨU TIẾP THEO)
+
+### 9.1 Real-Time Payment Systems & Modern Banking Infrastructure
+- [ ] **Instant Payment Architecture:** ISO 20022 message standards, SEPA Instant, FedNow implementation. Real-time gross settlement (RTGS), liquidity management, và 24/7 operational requirements.
+- [ ] **Core Banking Modernization:** Legacy mainframe integration, API-first core banking, event-sourced account management. Strangler fig pattern cho migration, dual-write consistency.
+- [ ] **Cross-Border Payments & Settlement:** SWIFT gpi, correspondent banking networks, blockchain-based settlement. Regulatory compliance (AML/KYC), sanctions screening, và FX risk management.
+
+### 9.2 Digital Identity, Privacy & Trust Architecture
+- [ ] **Decentralized Identity (DID) & Verifiable Credentials:** W3C DID Core, Self-Sovereign Identity (SSI), verifiable credentials data model. Trust frameworks, revocation mechanisms, và interoperability standards.
+- [ ] **Zero-Knowledge Proofs in Production:** zk-SNARKs/zk-STARKs implementation, privacy-preserving KYC/AML, anonymous credentials. Circuit design, trusted setup, và production deployment challenges.
+- [ ] **Confidential Computing & TEE:** Intel SGX, AMD SEV, ARM TrustZone. Secure enclaves for sensitive computation, remote attestation, và side-channel attack mitigation.
+
+### 9.3 Regulatory Technology (RegTech) & Compliance Architecture
+- [ ] **Real-Time Transaction Monitoring:** AML/CFT compliance systems, suspicious activity detection, rule-based và ML-based detection. False positive management, alert prioritization, và regulatory reporting.
+- [ ] **Data Sovereignty & Privacy Engineering:** GDPR, CCPA, data residency requirements. Privacy by design, data minimization, automated data lifecycle management, và cross-border data transfer mechanisms.
+- [ ] **Audit Trail & Non-Repudiation:** Immutable logging, tamper-evident storage, cryptographic proof of system state. Regulatory audit requirements, e-discovery, và long-term archival strategies.
