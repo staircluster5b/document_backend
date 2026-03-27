@@ -175,5 +175,5 @@
 
 ### 9.3 Regulatory Technology (RegTech) & Compliance Architecture
 - [x] **Real-Time Transaction Monitoring:** AML/CFT compliance systems, suspicious activity detection, rule-based và ML-based detection. False positive management, alert prioritization, và regulatory reporting.
-- [ ] **Data Sovereignty & Privacy Engineering:** GDPR, CCPA, data residency requirements. Privacy by design, data minimization, automated data lifecycle management, và cross-border data transfer mechanisms.
+- [x] **Data Sovereignty & Privacy Engineering:** GDPR, CCPA, data residency requirements. Privacy by design, data minimization, automated data lifecycle management, và cross-border data transfer mechanisms.
 - [ ] **Audit Trail & Non-Repudiation:** Immutable logging, tamper-evident storage, cryptographic proof of system state. Regulatory audit requirements, e-discovery, và long-term archival strategies.
