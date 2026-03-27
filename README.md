@@ -177,3 +177,22 @@
 - [x] **Real-Time Transaction Monitoring:** AML/CFT compliance systems, suspicious activity detection, rule-based và ML-based detection. False positive management, alert prioritization, và regulatory reporting.
 - [x] **Data Sovereignty & Privacy Engineering:** GDPR, CCPA, data residency requirements. Privacy by design, data minimization, automated data lifecycle management, và cross-border data transfer mechanisms.
 - [x] **Audit Trail & Non-Repudiation:** Immutable logging, tamper-evident storage, cryptographic proof of system state. Regulatory audit requirements, e-discovery, và long-term archival strategies.
+
+---
+
+## 🔬 PHẦN 10: PLATFORM ENGINEERING & ADVANCED INFRASTRUCTURE (ĐỀ XUẤT NGHIÊN CỨU TIẾP THEO)
+
+### 10.1 Internal Developer Platform (IDP) & Platform Engineering
+- [ ] **Platform as a Product:** Backstage/Port internals, self-service infrastructure, golden paths. Developer experience metrics, platform adoption strategies, và cognitive load reduction.
+- [ ] **GitOps at Scale:** ArgoCD/Flux architecture, application sets, progressive delivery. Multi-cluster management, drift detection, và automated rollback strategies.
+- [ ] **Infrastructure as Code Maturity:** Terraform/Pulumi advanced patterns, state management, module composition. Policy as Code (OPA/Gatekeeper), cost estimation, và compliance scanning.
+
+### 10.2 Advanced Kubernetes Patterns & Operators
+- [ ] **Kubernetes Operators Deep Dive:** Controller-runtime, CRDs, reconciliation loops. Leader election, finalizers, graceful shutdown, và operator lifecycle management (OLM).
+- [ ] **Multi-Cluster Service Mesh:** Istio multi-cluster, east-west traffic management, global load balancing. Cluster federation, service discovery across clusters, và disaster recovery patterns.
+- [ ] **Kubernetes Security Hardening:** Pod Security Standards, network policies, admission controllers. Runtime security (Falco), supply chain security (Sigstore, SLSA), và zero-trust networking.
+
+### 10.3 Data Engineering & AI-Native Infrastructure
+- [ ] **Real-Time Data Pipelines:** Apache Flink/Spark Streaming internals, exactly-once semantics, watermarking. Stateful stream processing, backpressure handling, và joining streams với different time characteristics.
+- [ ] **Feature Store Architecture:** Tecton/Feast internals, online vs offline stores, feature consistency. Training-serving skew mitigation, feature versioning, và governance.
+- [ ] **LLM Serving Infrastructure:** vLLM/TensorRT-LLM, model quantization, batching strategies. Prompt caching, token management, multi-model routing, và cost optimization cho AI workloads.
