@@ -90,7 +90,7 @@
 ### 5.1 Spring Core & Boot Internals
 - [x] **Spring IoC Container:** Bean lifecycle, BeanFactory vs ApplicationContext, BeanPostProcessor, BeanDefinition. Cơ chế dependency injection và circular dependency resolution.
 - [x] **Spring Boot Auto-Configuration:** @Conditional annotations, spring.factories, auto-configuration class ordering. Custom starter development và best practices.
-- [ ] **Spring Transaction Management:** @Transactional internals, proxy-based vs aspectj weaving, propagation levels, isolation levels. Transaction rollback behavior và common pitfalls.
+- [x] **Spring Transaction Management:** @Transactional internals, proxy-based vs aspectj weaving, propagation levels, isolation levels. Transaction rollback behavior và common pitfalls.
 
 ### 5.2 Spring Web & Reactive Stack
 - [ ] **Spring MVC Internals:** DispatcherServlet, HandlerMapping, HandlerAdapter, ViewResolver flow. Request mapping resolution, content negotiation, và message converters.
