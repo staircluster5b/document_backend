@@ -169,7 +169,7 @@
 - [x] **Cross-Border Payments & Settlement:** SWIFT gpi, correspondent banking networks, blockchain-based settlement. Regulatory compliance (AML/KYC), sanctions screening, và FX risk management.
 
 ### 9.2 Digital Identity, Privacy & Trust Architecture
-- [ ] **Decentralized Identity (DID) & Verifiable Credentials:** W3C DID Core, Self-Sovereign Identity (SSI), verifiable credentials data model. Trust frameworks, revocation mechanisms, và interoperability standards.
+- [x] **Decentralized Identity (DID) & Verifiable Credentials:** W3C DID Core, Self-Sovereign Identity (SSI), verifiable credentials data model. Trust frameworks, revocation mechanisms, và interoperability standards.
 - [ ] **Zero-Knowledge Proofs in Production:** zk-SNARKs/zk-STARKs implementation, privacy-preserving KYC/AML, anonymous credentials. Circuit design, trusted setup, và production deployment challenges.
 - [ ] **Confidential Computing & TEE:** Intel SGX, AMD SEV, ARM TrustZone. Secure enclaves for sensitive computation, remote attestation, và side-channel attack mitigation.
 
