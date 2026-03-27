@@ -145,7 +145,7 @@
 ## 🌍 PHẦN 8: ADVANCED DISTRIBUTED SYSTEMS & EDGE COMPUTING (ĐỀ XUẤT NGHIÊN CỨU TIẾP THEO)
 
 ### 8.1 Global Distributed Systems & Multi-Region Architecture
-- [ ] **Active-Active Multi-Region Design:** Conflict-free Replicated Data Types (CRDTs), conflict resolution strategies, vector clocks. Global consensus trong WAN environment, latency optimization qua geographic distribution.
+- [x] **Active-Active Multi-Region Design:** Conflict-free Replicated Data Types (CRDTs), conflict resolution strategies, vector clocks. Global consensus trong WAN environment, latency optimization qua geographic distribution.
 - [ ] **Edge Computing & CDN Deep Dive:** Cloudflare Workers, Fastly Compute@Edge, AWS Lambda@Edge. Edge caching strategies, request routing, và real-time personalization at edge.
 - [ ] **Global Database Systems:** Spanner TrueTime, CockroachDB distributed SQL, YugabyteDB. Linearizability across regions, clock synchronization, và trade-off availability vs consistency trong global context.
 
