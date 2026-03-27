@@ -137,5 +137,5 @@
 
 ### 7.4 Next-Generation Infrastructure & AI-Native Systems
 - [x] **Serverless Architecture Deep Dive:** AWS Lambda internals, cold start optimization strategies, provisioned concurrency. Function-as-a-Service patterns, step functions, event-driven serverless workflows. Trade-offs: latency vs cost, vendor lock-in mitigation with Knative/OpenFaaS.
-- [ ] **Post-Quantum Cryptography & Zero-Knowledge Proofs:** Lattice-based cryptography, CRYSTALS-Kyber/Dilithium algorithms. zk-SNARKs/zk-STARKs for privacy-preserving verification, homomorphic encryption use cases. Migration strategies từ RSA/ECC trong hệ thống legacy.
+- [x] **Post-Quantum Cryptography & Zero-Knowledge Proofs:** Lattice-based cryptography, CRYSTALS-Kyber/Dilithium algorithms. zk-SNARKs/zk-STARKs for privacy-preserving verification, homomorphic encryption use cases. Migration strategies từ RSA/ECC trong hệ thống legacy.
 - [ ] **AI-Native Application Architecture:** LLM serving infrastructure (vLLM, TensorRT-LLM), model quantization & distillation. Retrieval-Augmented Generation (RAG) at scale, vector search pipelines, agent orchestration frameworks (LangChain, AutoGPT). Cost optimization, token management, prompt caching strategies.
