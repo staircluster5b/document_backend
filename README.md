@@ -134,3 +134,8 @@
 - [x] **WebAssembly (WASM) in Backend:** WASI runtime, language-agnostic plugins, sandboxed execution. Edge computing với WASM, Cloudflare Workers architecture, performance comparison với containers.
 - [x] **eBPF for Observability & Security:** Kernel-level tracing, network filtering, security policies. Cilium service mesh, Falco runtime security, continuous profiling (Parca, Pyroscope).
 - [x] **Green Computing & Sustainable Software:** Carbon-aware computing, energy-efficient algorithms, carbon footprint measurement. Locale shifting, demand shifting, sustainable architecture patterns.
+
+### 7.4 Next-Generation Infrastructure & AI-Native Systems
+- [ ] **Serverless Architecture Deep Dive:** AWS Lambda internals, cold start optimization strategies, provisioned concurrency. Function-as-a-Service patterns, step functions, event-driven serverless workflows. Trade-offs: latency vs cost, vendor lock-in mitigation with Knative/OpenFaaS.
+- [ ] **Post-Quantum Cryptography & Zero-Knowledge Proofs:** Lattice-based cryptography, CRYSTALS-Kyber/Dilithium algorithms. zk-SNARKs/zk-STARKs for privacy-preserving verification, homomorphic encryption use cases. Migration strategies từ RSA/ECC trong hệ thống legacy.
+- [ ] **AI-Native Application Architecture:** LLM serving infrastructure (vLLM, TensorRT-LLM), model quantization & distillation. Retrieval-Augmented Generation (RAG) at scale, vector search pipelines, agent orchestration frameworks (LangChain, AutoGPT). Cost optimization, token management, prompt caching strategies.
