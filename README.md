@@ -36,7 +36,7 @@
 
 ### 2.1 Class Loading & Bytecode
 - [x] **ClassLoader Hierarchy:** Bootstrap, Extension, Application ClassLoaders. Custom ClassLoader implementation và ứng dụng (hot-reload, plugin architecture, isolation).
-- [ ] **JVM Bytecode & JIT Compilation:** Cách JVM biên dịch bytecode, JIT tiers (C1, C2, Graal), inlining, escape analysis, và on-stack replacement (OSR).
+- [x] **JVM Bytecode & JIT Compilation:** Cách JVM biên dịch bytecode, JIT tiers (C1, C2, Graal), inlining, escape analysis, và on-stack replacement (OSR).
 - [ ] **Java Agents & Instrumentation:** Premain, agentmain, Javassist, ByteBuddy cho AOP và monitoring.
 
 ### 2.2 Java Memory Model (JMM)
