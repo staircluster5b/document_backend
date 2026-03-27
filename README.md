@@ -93,5 +93,5 @@
 - [x] **Spring Transaction Management:** @Transactional internals, proxy-based vs aspectj weaving, propagation levels, isolation levels. Transaction rollback behavior và common pitfalls.
 
 ### 5.2 Spring Web & Reactive Stack
-- [ ] **Spring MVC Internals:** DispatcherServlet, HandlerMapping, HandlerAdapter, ViewResolver flow. Request mapping resolution, content negotiation, và message converters.
+- [x] **Spring MVC Internals:** DispatcherServlet, HandlerMapping, HandlerAdapter, ViewResolver flow. Request mapping resolution, content negotiation, và message converters.
 - [ ] **Spring WebFlux & Project Reactor:** Mono vs Flux, backpressure handling, event loop model vs thread-per-request. Performance comparison và migration strategies từ MVC.
