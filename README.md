@@ -113,5 +113,5 @@
 
 ### 6.3 Production Operations & SRE Practices
 - [x] **Deployment Strategies & Release Engineering:** Blue-green deployments, canary releases, feature flags (LaunchDarkly, Unleash). Database migration strategies (Flyway, Liquibase), backward compatibility trong schema changes. CI/CD pipeline optimization, build caching, artifact management.
-- [ ] **Chaos Engineering & Resilience Testing:** Chaos Monkey principles, failure injection (network latency, packet loss, service killing). Game day exercises, post-mortem culture, blameless incident reviews. Automated rollback triggers, circuit breaker monitoring, graceful degradation patterns.
+- [x] **Chaos Engineering & Resilience Testing:** Chaos Monkey principles, failure injection (network latency, packet loss, service killing). Game day exercises, post-mortem culture, blameless incident reviews. Automated rollback triggers, circuit breaker monitoring, graceful degradation patterns.
 - [ ] **Performance Tuning & Capacity Planning:** Load testing với k6/Gatling, throughput vs latency trade-offs. JVM tuning trong containerized environments (CGroup awareness, container-aware ergonomics). Connection pool sizing (HikariCP optimization), thread pool tuning, backpressure handling. Vertical vs horizontal scaling decisions, autoscaling policies (KEDA, HPA).
