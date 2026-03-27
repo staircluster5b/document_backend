@@ -147,7 +147,7 @@
 ### 8.1 Global Distributed Systems & Multi-Region Architecture
 - [x] **Active-Active Multi-Region Design:** Conflict-free Replicated Data Types (CRDTs), conflict resolution strategies, vector clocks. Global consensus trong WAN environment, latency optimization qua geographic distribution.
 - [x] **Edge Computing & CDN Deep Dive:** Cloudflare Workers, Fastly Compute@Edge, AWS Lambda@Edge. Edge caching strategies, request routing, và real-time personalization at edge.
-- [ ] **Global Database Systems:** Spanner TrueTime, CockroachDB distributed SQL, YugabyteDB. Linearizability across regions, clock synchronization, và trade-off availability vs consistency trong global context.
+- [x] **Global Database Systems:** Spanner TrueTime, CockroachDB distributed SQL, YugabyteDB. Linearizability across regions, clock synchronization, và trade-off availability vs consistency trong global context.
 
 ### 8.2 Advanced Event-Driven Patterns & State Management
 - [ ] **Event Sourcing at Scale:** Event Store internals, temporal queries, event versioning. Snapshot strategies, projection rebuild optimization, và event schema evolution trong multi-year systems.
