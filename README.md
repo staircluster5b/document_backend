@@ -123,7 +123,7 @@
 ### 7.1 Financial Systems Architecture & Banking Domain
 - [x] **Core Banking Integration Patterns:** ISO 20022 message standards, SWIFT MT/MX migration, payment gateways (NAPAS, Visa, Mastercard). Transaction integrity trong high-value transfers, reconciliation processes, end-of-day batch processing.
 - [x] **Regulatory Compliance & Audit:** PCI-DSS implementation cho card data, GDPR data handling, SOX compliance cho financial reporting. Immutable audit logs, tamper-evident storage, data retention policies.
-- [ ] **High-Frequency Trading & Low-Latency Systems:** Lock-free algorithms, memory-mapped files, kernel bypass networking (DPDK). Time synchronization (PTP), co-location strategies, market data feed handlers.
+- [x] **High-Frequency Trading & Low-Latency Systems:** Lock-free algorithms, memory-mapped files, kernel bypass networking (DPDK). Time synchronization (PTP), co-location strategies, market data feed handlers.
 
 ### 7.2 Advanced Data Architecture
 - [ ] **Data Mesh & Domain-Oriented Ownership:** Self-serve data infrastructure, domain data products, federated governance. Transition từ monolithic data lake sang distributed data mesh.
