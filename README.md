@@ -60,4 +60,4 @@
 ### 3.2 High-Performance Networking
 - [x] **Netty Deep Dive:** Event loop architecture, Channel pipeline, ByteBuf memory management. Zero-copy và backpressure handling.
 - [x] **gRPC Internals:** HTTP/2 flow control, protobuf serialization, load balancing strategies. Deadlines, retries, và circuit breaker pattern.
-- [ ] **Reactive Streams:** Publisher-Subscriber model, backpressure protocol. Project Reactor vs RxJava vs Kotlin Flow.
+- [x] **Reactive Streams:** Publisher-Subscriber model, backpressure protocol. Project Reactor vs RxJava vs Kotlin Flow.
