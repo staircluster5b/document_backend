@@ -73,7 +73,7 @@
 *Tối ưu hóa hiệu năng và thiết kế dữ liệu ở quy mô lớn.*
 
 ### 4.1 Database Internals & Optimization
-- [ ] **B-Tree vs LSM-Tree:** Storage engine internals, write amplification, read amplification. Trade-off giữa OLTP và OLAP.
+- [x] **B-Tree vs LSM-Tree:** Storage engine internals, write amplification, read amplification. Trade-off giữa OLTP và OLAP.
 - [ ] **Indexing Strategies:** B-Tree, Hash, GiST, GIN indexes. Composite index design, covering index, index-only scans.
 - [ ] **Query Optimization:** Execution plans, cost-based optimizer, statistics, histograms. Common query anti-patterns.
 
