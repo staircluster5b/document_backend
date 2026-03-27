@@ -65,7 +65,7 @@
 ### 3.3 Microservices & Cloud-Native Patterns
 - [x] **Service Mesh Deep Dive:** Istio/Linkerd architecture, sidecar pattern, mTLS, traffic management. Data plane vs control plane.
 - [x] **Circuit Breaker & Bulkhead Pattern:** Implementation với Resilience4j, failure isolation, cascading failure prevention.
-- [ ] **Event-Driven Architecture:** Kafka/RabbitMQ internals, event sourcing, CQRS, outbox pattern, idempotent consumers.
+- [x] **Event-Driven Architecture:** Kafka/RabbitMQ internals, event sourcing, CQRS, outbox pattern, idempotent consumers.
 
 ---
 
