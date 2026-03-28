@@ -161,7 +161,7 @@ research/
 ### 24. Event-Driven Architecture at Scale
 - [x] Event Schema Evolution - Avro, Protobuf, Schema Registry strategies
 - [x] Idempotency & Exactly-Once Semantics - Delivery guarantees, deduplication patterns
-- [ ] Event Choreography vs Orchestration - Trade-offs in distributed workflows
+- [x] Event Choreography vs Orchestration - Trade-offs in distributed workflows
 
 ### 25. AI-Native Backend Patterns
 - [ ] LLM Integration Architecture - RAG pipelines, embedding services, vector databases
