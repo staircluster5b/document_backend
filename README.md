@@ -177,7 +177,7 @@ research/
 
 ### 36. Unikernel & Kernel-Level Innovation
 - [x] Unikernel Architecture - Single-address-space OS, library OS, deployment models
-- [ ] eBPF for Backend - Kernel observability, security filtering, custom load balancing
+- [x] eBPF for Backend - Kernel observability, security filtering, custom load balancing
 - [ ] io_uring & Async I/O Evolution - Zero-copy networking, completion queues, performance implications
 
 ### 37. Formal Verification & System Correctness
