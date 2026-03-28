@@ -73,7 +73,7 @@ Lộ trình nghiên cứu chuyên sâu để chuyển đổi từ Java Core lên
 
 ### 13. API Gateway & Load Balancing
 - [x] API Gateway Patterns - Routing, Rate limiting, Authentication aggregation
-- [ ] Load Balancing Algorithms - Round-robin, Least connections, Consistent hashing
+- [x] Load Balancing Algorithms - Round-robin, Least connections, Consistent hashing
 - [ ] Circuit Breaker & Bulkhead - Resilience patterns, Fallback strategies
 
 ### 14. Containerization & Orchestration
