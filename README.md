@@ -78,7 +78,7 @@ Lộ trình nghiên cứu chuyên sâu để chuyển đổi từ Java Core lên
 
 ### 14. Containerization & Orchestration
 - [x] Docker for Java - Multi-stage builds, JIB, Layer caching
-- [ ] Kubernetes - Deployments, Services, ConfigMaps, Health probes
+- [x] Kubernetes - Deployments, Services, ConfigMaps, Health probes
 - [ ] Helm Charts - Templating, Values, Releases
 
 ## 📊 Phase 5: Observability & Production
