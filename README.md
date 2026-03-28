@@ -188,7 +188,7 @@ research/
 - [x] Reactive Systems - RSockets, backpressure, flow control, circuit breakers in streaming
 
 ### 29. Quantum-Ready & Post-Quantum Security
-- [ ] Post-Quantum Cryptography - Lattice-based, hash-based signatures, migration strategies
+- [x] Post-Quantum Cryptography - Lattice-based, hash-based signatures, migration strategies
 - [ ] Cryptographic Agility - Algorithm negotiation, certificate rotation, hybrid schemes
 - [ ] Quantum Key Distribution - BB84 protocol, practical implementations, limitations
 
