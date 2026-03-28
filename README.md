@@ -151,7 +151,7 @@ research/
 
 ### 23. Platform Engineering
 - [x] Internal Developer Platform - Backstage, platform APIs, self-service
-- [ ] GitOps & Progressive Delivery - ArgoCD, Flux, canary/blue-green automation
+- [x] GitOps & Progressive Delivery - ArgoCD, Flux, canary/blue-green automation
 - [ ] Developer Experience - InnerSource, documentation-as-code, onboarding
 
 ---
