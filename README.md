@@ -30,7 +30,7 @@ Lộ trình nghiên cứu chuyên sâu để chuyển đổi từ Java Core lên
 ### 5. Design Patterns in Java
 - [x] Creational Patterns - Singleton, Factory, Builder, Object Pool
 - [x] Structural Patterns - Adapter, Decorator, Proxy, Facade
-- [ ] Behavioral Patterns - Strategy, Observer, Template Method, Command
+- [x] Behavioral Patterns - Strategy, Observer, Template Method, Command
 
 ### 6. Distributed Systems Fundamentals
 - [ ] CAP Theorem & PACELC - Trade-offs in distributed systems
