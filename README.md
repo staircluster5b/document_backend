@@ -113,7 +113,7 @@ Lộ trình nghiên cứu chuyên sâu để chuyển đổi từ Java Core lên
 - [x] Saga Pattern Implementation - Orchestration vs Choreography, Compensation
 
 ### 20. Chaos Engineering & Resilience
-- [ ] Chaos Engineering Principles - Blast radius, Steady state, Abort conditions
+- [x] Chaos Engineering Principles - Blast radius, Steady state, Abort conditions
 - [ ] Resilience Testing - Gremlin, Chaos Mesh, Failure injection
 - [ ] Disaster Recovery - RTO/RPO, Backup strategies, Multi-region failover
 
