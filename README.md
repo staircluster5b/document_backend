@@ -142,7 +142,7 @@ research/
 ### 21. Cost Optimization & FinOps
 - [x] Cloud Cost Management - Reserved instances, Spot instances, Savings plans
 - [x] FinOps Practices - Cost allocation, tagging strategies, chargeback models
-- [ ] Infrastructure Rightsizing - Auto-scaling optimization, idle resource detection
+- [x] Infrastructure Rightsizing - Auto-scaling optimization, idle resource detection
 
 ### 22. Advanced Security Architecture
 - [ ] Zero Trust Architecture - mTLS everywhere, identity-based security
