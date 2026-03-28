@@ -94,7 +94,7 @@ Lộ trình nghiên cứu chuyên sâu để chuyển đổi từ Java Core lên
 - [x] Application Profiling - Async-profiler, JFR, JMC
 
 ### 17. Security Best Practices
-- [ ] Authentication & Authorization - JWT, OAuth2, OIDC, RBAC
+- [x] Authentication & Authorization - JWT, OAuth2, OIDC, RBAC
 - [ ] Secure Coding - SQL Injection, XSS, CSRF, Secrets management
 - [ ] API Security - Rate limiting, Input validation, CORS
 
