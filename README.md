@@ -184,7 +184,7 @@ research/
 
 ### 28. Real-time & Streaming Systems at Scale
 - [x] WebSocket Architecture - Horizontal scaling, connection pooling, fallback strategies
-- [ ] Event Stream Processing - Flink vs Kafka Streams vs Spark Streaming, stateful operations
+- [x] Event Stream Processing - Flink vs Kafka Streams vs Spark Streaming, stateful operations
 - [ ] Reactive Systems - RSockets, backpressure, flow control, circuit breakers in streaming
 
 ### 29. Quantum-Ready & Post-Quantum Security
