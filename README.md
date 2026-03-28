@@ -52,7 +52,7 @@ Lộ trình nghiên cứu chuyên sâu để chuyển đổi từ Java Core lên
 ### 9. Relational Database Internals
 - [x] Indexing Strategies - B-Tree, B+Tree, Hash Index, Covering Index
 - [x] Query Optimization - Execution Plan, Cost-based optimizer, Join algorithms
-- [ ] Transaction Isolation - ACID, Isolation Levels, MVCC, Phantom Reads
+- [x] Transaction Isolation - ACID, Isolation Levels, MVCC, Phantom Reads
 
 ### 10. NoSQL Databases
 - [ ] MongoDB - Document Model, Sharding, Replication, Aggregation Pipeline
