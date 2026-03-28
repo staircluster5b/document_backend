@@ -114,7 +114,7 @@ Lộ trình nghiên cứu chuyên sâu để chuyển đổi từ Java Core lên
 
 ### 20. Chaos Engineering & Resilience
 - [x] Chaos Engineering Principles - Blast radius, Steady state, Abort conditions
-- [ ] Resilience Testing - Gremlin, Chaos Mesh, Failure injection
+- [x] Resilience Testing - Gremlin, Chaos Mesh, Failure injection
 - [ ] Disaster Recovery - RTO/RPO, Backup strategies, Multi-region failover
 
 ---
