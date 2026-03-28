@@ -165,7 +165,7 @@ research/
 
 ### 25. AI-Native Backend Patterns
 - [x] LLM Integration Architecture - RAG pipelines, embedding services, vector databases
-- [ ] Agent Systems Design - Multi-agent orchestration, tool calling, state management
+- [x] Agent Systems Design - Multi-agent orchestration, tool calling, state management
 - [ ] AI Observability - LLM tracing, prompt versioning, cost optimization
 
 ### 26. Advanced Database Patterns
