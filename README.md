@@ -196,3 +196,12 @@
 - [ ] **Real-Time Data Pipelines:** Apache Flink/Spark Streaming internals, exactly-once semantics, watermarking. Stateful stream processing, backpressure handling, và joining streams với different time characteristics.
 - [ ] **Feature Store Architecture:** Tecton/Feast internals, online vs offline stores, feature consistency. Training-serving skew mitigation, feature versioning, và governance.
 - [ ] **LLM Serving Infrastructure:** vLLM/TensorRT-LLM, model quantization, batching strategies. Prompt caching, token management, multi-model routing, và cost optimization cho AI workloads.
+
+---
+
+## 🧠 PHẦN 11: HUMAN-COMPUTER SYMBIOSIS & EMERGING FRONTIERS (ĐỀ XUẤT NGHIÊN CỨU TIẾP THEO)
+
+### 11.1 Brain-Computer Interface (BCI) Architecture
+- [x] **Neural Signal Processing Infrastructure:** EEG/ECoG data pipelines, real-time signal preprocessing, feature extraction. Streaming architecture cho high-frequency neural data (10K+ samples/sec), latency <100ms requirements.
+- [ ] **Brain Data Security & Privacy:** Neural data encryption, neuro-rights compliance, federated learning cho brain data. Ethical implications của thought inference, consent management.
+- [ ] **Real-time Bio-feedback Systems:** Closed-loop BCI systems, neurofeedback training, adaptive ML models. Production concerns: signal artifact rejection, device synchronization, calibration drift.
