@@ -23,7 +23,7 @@ Lộ trình nghiên cứu chuyên sâu để chuyển đổi từ Java Core lên
 ### 4. Java I/O & NIO
 - [x] Blocking I/O (java.io) - Streams, Readers/Writers, Serialization
 - [x] Non-blocking I/O (java.nio) - Channels, Buffers, Selectors, ByteBuffer
-- [ ] NIO.2 (java.nio.file) - Path, Files, WatchService, FileVisitor
+- [x] NIO.2 (java.nio.file) - Path, Files, WatchService, FileVisitor
 
 ## 🏗️ Phase 2: System Design & Architecture
 
