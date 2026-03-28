@@ -62,7 +62,7 @@ Lộ trình nghiên cứu chuyên sâu để chuyển đổi từ Java Core lên
 ### 11. ORM & Data Access Patterns
 - [x] Hibernate Internals - Session, Cache levels, Lazy loading, N+1 problem
 - [x] Connection Pooling - HikariCP, Connection lifecycle, Pool sizing
-- [ ] Database Migration - Flyway, Liquibase, Versioning strategies
+- [x] Database Migration - Flyway, Liquibase, Versioning strategies
 
 ## 🌐 Phase 4: Microservices & Cloud-Native
 
