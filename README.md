@@ -147,7 +147,7 @@ research/
 ### 22. Advanced Security Architecture
 - [x] Zero Trust Architecture - mTLS everywhere, identity-based security
 - [x] Secrets Management - HashiCorp Vault, AWS Secrets Manager rotation
-- [ ] Data Protection - Encryption at rest/transit, key management, HSM
+- [x] Data Protection - Encryption at rest/transit, key management, HSM
 
 ### 23. Platform Engineering
 - [ ] Internal Developer Platform - Backstage, platform APIs, self-service
