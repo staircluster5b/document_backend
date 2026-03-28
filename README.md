@@ -50,7 +50,7 @@ Lộ trình nghiên cứu chuyên sâu để chuyển đổi từ Java Core lên
 ## 🔧 Phase 3: Database & Persistence
 
 ### 9. Relational Database Internals
-- [ ] Indexing Strategies - B-Tree, B+Tree, Hash Index, Covering Index
+- [x] Indexing Strategies - B-Tree, B+Tree, Hash Index, Covering Index
 - [ ] Query Optimization - Execution Plan, Cost-based optimizer, Join algorithms
 - [ ] Transaction Isolation - ACID, Isolation Levels, MVCC, Phantom Reads
 
