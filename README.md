@@ -110,7 +110,7 @@ Lộ trình nghiên cứu chuyên sâu để chuyển đổi từ Java Core lên
 ### 19. Event-Driven Architecture at Scale
 - [x] Event Sourcing Patterns - Aggregate versioning, Event versioning, Snapshots
 - [x] Stream Processing - Kafka Streams, Flink, Stateful operations
-- [ ] Saga Pattern Implementation - Orchestration vs Choreography, Compensation
+- [x] Saga Pattern Implementation - Orchestration vs Choreography, Compensation
 
 ### 20. Chaos Engineering & Resilience
 - [ ] Chaos Engineering Principles - Blast radius, Steady state, Abort conditions
