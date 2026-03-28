@@ -38,7 +38,7 @@ Lộ trình nghiên cứu chuyên sâu để chuyển đổi từ Java Core lên
 - [x] Distributed Transactions - 2PC, 3PC, Saga Pattern, Outbox Pattern
 
 ### 7. Caching Strategies
-- [ ] Cache Patterns - Cache-Aside, Read-Through, Write-Through, Write-Behind
+- [x] Cache Patterns - Cache-Aside, Read-Through, Write-Through, Write-Behind
 - [ ] Eviction Policies - LRU, LFU, FIFO, Custom
 - [ ] Distributed Caching - Redis Cluster, Consistent Hashing
 
