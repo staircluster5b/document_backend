@@ -175,6 +175,25 @@ research/
 
 ---
 
+## 🔮 Phase 9: Cutting-Edge Backend Architecture (Next Frontier)
+
+### 27. WebAssembly & Micro-runtime Architecture
+- [ ] WASM for Backend - Component model, WASI preview 2, language interoperability
+- [ ] Micro-runtime vs Container - Spin, Wasmtime, performance trade-offs, cold start comparison
+- [ ] WASM Edge Computing - Distributed WASM modules, state management, security sandboxing
+
+### 28. Real-time & Streaming Systems at Scale
+- [ ] WebSocket Architecture - Horizontal scaling, connection pooling, fallback strategies
+- [ ] Event Stream Processing - Flink vs Kafka Streams vs Spark Streaming, stateful operations
+- [ ] Reactive Systems - RSockets, backpressure, flow control, circuit breakers in streaming
+
+### 29. Quantum-Ready & Post-Quantum Security
+- [ ] Post-Quantum Cryptography - Lattice-based, hash-based signatures, migration strategies
+- [ ] Cryptographic Agility - Algorithm negotiation, certificate rotation, hybrid schemes
+- [ ] Quantum Key Distribution - BB84 protocol, practical implementations, limitations
+
+---
+
 ## 🎯 Research Principles
 
 1. **Depth over Breadth**: Tập trung vào bản chất, không dừng ở mô tả bề mặt
