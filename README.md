@@ -28,7 +28,7 @@ Lộ trình nghiên cứu chuyên sâu để chuyển đổi từ Java Core lên
 ## 🏗️ Phase 2: System Design & Architecture
 
 ### 5. Design Patterns in Java
-- [ ] Creational Patterns - Singleton, Factory, Builder, Object Pool
+- [x] Creational Patterns - Singleton, Factory, Builder, Object Pool
 - [ ] Structural Patterns - Adapter, Decorator, Proxy, Facade
 - [ ] Behavioral Patterns - Strategy, Observer, Template Method, Command
 
