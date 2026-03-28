@@ -16,7 +16,7 @@ Lộ trình nghiên cứu chuyên sâu để chuyển đổi từ Java Core lên
 - [x] Concurrency Patterns - Producer-Consumer, Reader-Writer, Dining Philosophers
 
 ### 3. Java Collections Framework Deep Dive
-- [ ] HashMap Implementation - Hash collision, Treeify, Resize mechanism, Load factor
+- [x] HashMap Implementation - Hash collision, Treeify, Resize mechanism, Load factor
 - [ ] ConcurrentHashMap - Segment locking vs CAS, Size estimation
 - [ ] List Implementations - ArrayList vs LinkedList internals, CopyOnWriteArrayList
 
