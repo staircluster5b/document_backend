@@ -35,7 +35,7 @@ Lộ trình nghiên cứu chuyên sâu để chuyển đổi từ Java Core lên
 ### 6. Distributed Systems Fundamentals
 - [x] CAP Theorem & PACELC - Trade-offs in distributed systems
 - [x] Consistency Models - Strong, Eventual, Causal, Read-your-writes
-- [ ] Distributed Transactions - 2PC, 3PC, Saga Pattern, Outbox Pattern
+- [x] Distributed Transactions - 2PC, 3PC, Saga Pattern, Outbox Pattern
 
 ### 7. Caching Strategies
 - [ ] Cache Patterns - Cache-Aside, Read-Through, Write-Through, Write-Behind
