@@ -162,7 +162,7 @@ research/
 - [x] AI-Driven Operations (AIOps) - Anomaly detection root cause analysis, predictive scaling, automated remediation
 
 ### 34. Sustainable & Green Computing
-- [ ] Carbon-Aware Architecture - Location shifting, temporal shifting, renewable energy optimization
+- [x] Carbon-Aware Architecture - Location shifting, temporal shifting, renewable energy optimization
 - [ ] Energy-Proportional Computing - Power capping, right-sizing, workload scheduling for efficiency
 - [ ] Circular Economy in Tech - Hardware lifecycle, e-waste reduction, sustainable cloud practices
 
