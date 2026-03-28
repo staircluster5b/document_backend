@@ -181,8 +181,8 @@ research/
 - [x] io_uring & Async I/O Evolution - Zero-copy networking, completion queues, performance implications
 
 ### 37. Formal Verification & System Correctness
-- [ ] TLA+ for Distributed Systems - Model checking, invariants, temporal logic specifications
-- [ ] Property-Based Testing - QuickCheck, stateful testing, race condition detection
+- [x] TLA+ for Distributed Systems - Model checking, invariants, temporal logic specifications
+- [x] Property-Based Testing - QuickCheck, stateful testing, race condition detection
 - [ ] Consensus Verification - Proving correctness of consensus algorithms, Byzantine fault tolerance proofs
 
 ### 38. Data Mesh & Federated Data Architecture
