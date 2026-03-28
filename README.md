@@ -17,7 +17,7 @@ Lộ trình nghiên cứu chuyên sâu để chuyển đổi từ Java Core lên
 
 ### 3. Java Collections Framework Deep Dive
 - [x] HashMap Implementation - Hash collision, Treeify, Resize mechanism, Load factor
-- [ ] ConcurrentHashMap - Segment locking vs CAS, Size estimation
+- [x] ConcurrentHashMap - Segment locking vs CAS, Size estimation
 - [ ] List Implementations - ArrayList vs LinkedList internals, CopyOnWriteArrayList
 
 ### 4. Java I/O & NIO
