@@ -105,7 +105,7 @@ Lộ trình nghiên cứu chuyên sâu để chuyển đổi từ Java Core lên
 ### 18. Service Mesh & Advanced Networking
 - [x] Istio Deep Dive - Traffic management, mTLS, Observability
 - [x] Envoy Proxy - Configuration, Filters, Circuit breaking
-- [ ] Advanced Kubernetes Networking - CNI, Network Policies, Ingress controllers
+- [x] Advanced Kubernetes Networking - CNI, Network Policies, Ingress controllers
 
 ### 19. Event-Driven Architecture at Scale
 - [ ] Event Sourcing Patterns - Aggregate versioning, Event versioning, Snapshots
