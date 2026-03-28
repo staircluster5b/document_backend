@@ -179,7 +179,7 @@ research/
 
 ### 27. WebAssembly & Micro-runtime Architecture
 - [x] WASM for Backend - Component model, WASI preview 2, language interoperability
-- [ ] Micro-runtime vs Container - Spin, Wasmtime, performance trade-offs, cold start comparison
+- [x] Micro-runtime vs Container - Spin, Wasmtime, performance trade-offs, cold start comparison
 - [ ] WASM Edge Computing - Distributed WASM modules, state management, security sandboxing
 
 ### 28. Real-time & Streaming Systems at Scale
