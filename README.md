@@ -68,7 +68,7 @@ Lộ trình nghiên cứu chuyên sâu để chuyển đổi từ Java Core lên
 
 ### 12. Microservices Architecture
 - [x] Service Decomposition - Domain-driven design, Bounded contexts
-- [ ] Inter-service Communication - REST, gRPC, GraphQL comparison
+- [x] Inter-service Communication - REST, gRPC, GraphQL comparison
 - [ ] Service Discovery - Eureka, Consul, Kubernetes DNS
 
 ### 13. API Gateway & Load Balancing
