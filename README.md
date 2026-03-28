@@ -90,7 +90,7 @@ Lộ trình nghiên cứu chuyên sâu để chuyển đổi từ Java Core lên
 
 ### 16. Performance Optimization
 - [x] Profiling Techniques - CPU profiling, Memory profiling, Flame graphs
-- [ ] JVM Tuning - Heap sizing, GC selection, JIT compiler flags
+- [x] JVM Tuning - Heap sizing, GC selection, JIT compiler flags
 - [ ] Application Profiling - Async-profiler, JFR, JMC
 
 ### 17. Security Best Practices
