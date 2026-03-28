@@ -56,7 +56,7 @@ Lộ trình nghiên cứu chuyên sâu để chuyển đổi từ Java Core lên
 
 ### 10. NoSQL Databases
 - [x] MongoDB - Document Model, Sharding, Replication, Aggregation Pipeline
-- [ ] Cassandra - Wide-column store, Tunable consistency, LSM Tree
+- [x] Cassandra - Wide-column store, Tunable consistency, LSM Tree
 - [ ] Elasticsearch - Inverted index, Sharding, Relevance scoring
 
 ### 11. ORM & Data Access Patterns
