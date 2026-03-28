@@ -72,7 +72,7 @@ Lộ trình nghiên cứu chuyên sâu để chuyển đổi từ Java Core lên
 - [x] Service Discovery - Eureka, Consul, Kubernetes DNS
 
 ### 13. API Gateway & Load Balancing
-- [ ] API Gateway Patterns - Routing, Rate limiting, Authentication aggregation
+- [x] API Gateway Patterns - Routing, Rate limiting, Authentication aggregation
 - [ ] Load Balancing Algorithms - Round-robin, Least connections, Consistent hashing
 - [ ] Circuit Breaker & Bulkhead - Resilience patterns, Fallback strategies
 
