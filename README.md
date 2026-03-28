@@ -150,7 +150,7 @@ research/
 - [x] Data Protection - Encryption at rest/transit, key management, HSM
 
 ### 23. Platform Engineering
-- [ ] Internal Developer Platform - Backstage, platform APIs, self-service
+- [x] Internal Developer Platform - Backstage, platform APIs, self-service
 - [ ] GitOps & Progressive Delivery - ArgoCD, Flux, canary/blue-green automation
 - [ ] Developer Experience - InnerSource, documentation-as-code, onboarding
 
