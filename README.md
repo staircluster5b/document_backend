@@ -43,7 +43,7 @@ Lộ trình nghiên cứu chuyên sâu để chuyển đổi từ Java Core lên
 - [x] Distributed Caching - Redis Cluster, Consistent Hashing
 
 ### 8. Message Queues & Event-Driven Architecture
-- [ ] Message Queue Patterns - Pub/Sub, Point-to-Point, Dead Letter Queue
+- [x] Message Queue Patterns - Pub/Sub, Point-to-Point, Dead Letter Queue
 - [ ] Apache Kafka - Architecture, Partitioning, Replication, Consumer Groups
 - [ ] Event Sourcing & CQRS - Event Store, Projection, Snapshots
 
