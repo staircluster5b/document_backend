@@ -163,7 +163,7 @@ research/
 
 ### 34. Sustainable & Green Computing
 - [x] Carbon-Aware Architecture - Location shifting, temporal shifting, renewable energy optimization
-- [ ] Energy-Proportional Computing - Power capping, right-sizing, workload scheduling for efficiency
+- [x] Energy-Proportional Computing - Power capping, right-sizing, workload scheduling for efficiency
 - [ ] Circular Economy in Tech - Hardware lifecycle, e-waste reduction, sustainable cloud practices
 
 ### 35. Human-Computer Symbiosis
