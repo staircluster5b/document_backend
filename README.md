@@ -108,7 +108,7 @@ Lộ trình nghiên cứu chuyên sâu để chuyển đổi từ Java Core lên
 - [x] Advanced Kubernetes Networking - CNI, Network Policies, Ingress controllers
 
 ### 19. Event-Driven Architecture at Scale
-- [ ] Event Sourcing Patterns - Aggregate versioning, Event versioning, Snapshots
+- [x] Event Sourcing Patterns - Aggregate versioning, Event versioning, Snapshots
 - [ ] Stream Processing - Kafka Streams, Flink, Stateful operations
 - [ ] Saga Pattern Implementation - Orchestration vs Choreography, Compensation
 
