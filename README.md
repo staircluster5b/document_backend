@@ -103,7 +103,7 @@ Lộ trình nghiên cứu chuyên sâu để chuyển đổi từ Java Core lên
 ## 🚀 Phase 6: Advanced Architecture & Operations (Extension)
 
 ### 18. Service Mesh & Advanced Networking
-- [ ] Istio Deep Dive - Traffic management, mTLS, Observability
+- [x] Istio Deep Dive - Traffic management, mTLS, Observability
 - [ ] Envoy Proxy - Configuration, Filters, Circuit breaking
 - [ ] Advanced Kubernetes Networking - CNI, Network Policies, Ingress controllers
 
