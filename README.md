@@ -10,7 +10,7 @@ Lộ trình nghiên cứu chuyên sâu để chuyển đổi từ Java Core lên
 - [x] Memory Management - Heap Structure, Metaspace, Stack vs Heap, Memory Leaks Detection
 
 ### 2. Java Concurrency & Multithreading
-- [ ] **Thread Lifecycle & Synchronization - wait/notify, join, synchronized, volatile**
+- [x] Thread Lifecycle & Synchronization - wait/notify, join, synchronized, volatile
 - [ ] java.util.concurrent Package - ExecutorService, ThreadPool, CompletableFuture, Fork/Join
 - [ ] Lock-Free Programming - CAS, Atomic classes, ABA Problem
 - [ ] Concurrency Patterns - Producer-Consumer, Reader-Writer, Dining Philosophers
