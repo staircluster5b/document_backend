@@ -89,7 +89,7 @@ Lộ trình nghiên cứu chuyên sâu để chuyển đổi từ Java Core lên
 - [x] Distributed Tracing - OpenTelemetry, Jaeger, Trace propagation
 
 ### 16. Performance Optimization
-- [ ] Profiling Techniques - CPU profiling, Memory profiling, Flame graphs
+- [x] Profiling Techniques - CPU profiling, Memory profiling, Flame graphs
 - [ ] JVM Tuning - Heap sizing, GC selection, JIT compiler flags
 - [ ] Application Profiling - Async-profiler, JFR, JMC
 
