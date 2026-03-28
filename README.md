@@ -55,7 +55,7 @@ Lộ trình nghiên cứu chuyên sâu để chuyển đổi từ Java Core lên
 - [x] Transaction Isolation - ACID, Isolation Levels, MVCC, Phantom Reads
 
 ### 10. NoSQL Databases
-- [ ] MongoDB - Document Model, Sharding, Replication, Aggregation Pipeline
+- [x] MongoDB - Document Model, Sharding, Replication, Aggregation Pipeline
 - [ ] Cassandra - Wide-column store, Tunable consistency, LSM Tree
 - [ ] Elasticsearch - Inverted index, Sharding, Relevance scoring
 
