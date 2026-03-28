@@ -143,7 +143,7 @@ research/
 - [x] Bio-inspired Algorithms - Swarm intelligence, evolutionary optimization in distributed systems
 
 ### 31. Advanced Consensus Mechanisms
-- [ ] DAG-based Consensus - Hashgraph, IOTA Tangle, Avalanche protocol
+- [x] DAG-based Consensus - Hashgraph, IOTA Tangle, Avalanche protocol
 - [ ] Byzantine Fault Tolerance at Scale - HotStuff, Tendermint, Practical BFT variants
 - [ ] Consensusless Coordination - CRDTs, operational transforms, conflict-free replication
 
