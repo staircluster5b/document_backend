@@ -39,7 +39,7 @@ Lộ trình nghiên cứu chuyên sâu để chuyển đổi từ Java Core lên
 
 ### 7. Caching Strategies
 - [x] Cache Patterns - Cache-Aside, Read-Through, Write-Through, Write-Behind
-- [ ] Eviction Policies - LRU, LFU, FIFO, Custom
+- [x] Eviction Policies - LRU, LFU, FIFO, Custom
 - [ ] Distributed Caching - Redis Cluster, Consistent Hashing
 
 ### 8. Message Queues & Event-Driven Architecture
