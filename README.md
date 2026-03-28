@@ -95,7 +95,7 @@ Lộ trình nghiên cứu chuyên sâu để chuyển đổi từ Java Core lên
 
 ### 17. Security Best Practices
 - [x] Authentication & Authorization - JWT, OAuth2, OIDC, RBAC
-- [ ] Secure Coding - SQL Injection, XSS, CSRF, Secrets management
+- [x] Secure Coding - SQL Injection, XSS, CSRF, Secrets management
 - [ ] API Security - Rate limiting, Input validation, CORS
 
 ---
