@@ -45,7 +45,7 @@ Lộ trình nghiên cứu chuyên sâu để chuyển đổi từ Java Core lên
 ### 8. Message Queues & Event-Driven Architecture
 - [x] Message Queue Patterns - Pub/Sub, Point-to-Point, Dead Letter Queue
 - [x] Apache Kafka - Architecture, Partitioning, Replication, Consumer Groups
-- [ ] Event Sourcing & CQRS - Event Store, Projection, Snapshots
+- [x] Event Sourcing & CQRS - Event Store, Projection, Snapshots
 
 ## 🔧 Phase 3: Database & Persistence
 
