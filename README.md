@@ -86,7 +86,7 @@ Lộ trình nghiên cứu chuyên sâu để chuyển đổi từ Java Core lên
 ### 15. Logging & Monitoring
 - [x] Structured Logging - SLF4J, Logback, MDC, Correlation IDs
 - [x] Metrics Collection - Micrometer, Prometheus, Custom metrics
-- [ ] Distributed Tracing - OpenTelemetry, Jaeger, Trace propagation
+- [x] Distributed Tracing - OpenTelemetry, Jaeger, Trace propagation
 
 ### 16. Performance Optimization
 - [ ] Profiling Techniques - CPU profiling, Memory profiling, Flame graphs
