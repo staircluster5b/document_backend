@@ -164,7 +164,7 @@ research/
 - [x] Event Choreography vs Orchestration - Trade-offs in distributed workflows
 
 ### 25. AI-Native Backend Patterns
-- [ ] LLM Integration Architecture - RAG pipelines, embedding services, vector databases
+- [x] LLM Integration Architecture - RAG pipelines, embedding services, vector databases
 - [ ] Agent Systems Design - Multi-agent orchestration, tool calling, state management
 - [ ] AI Observability - LLM tracing, prompt versioning, cost optimization
 
