@@ -60,7 +60,7 @@ Lộ trình nghiên cứu chuyên sâu để chuyển đổi từ Java Core lên
 - [x] Elasticsearch - Inverted index, Sharding, Relevance scoring
 
 ### 11. ORM & Data Access Patterns
-- [ ] Hibernate Internals - Session, Cache levels, Lazy loading, N+1 problem
+- [x] Hibernate Internals - Session, Cache levels, Lazy loading, N+1 problem
 - [ ] Connection Pooling - HikariCP, Connection lifecycle, Pool sizing
 - [ ] Database Migration - Flyway, Liquibase, Versioning strategies
 
