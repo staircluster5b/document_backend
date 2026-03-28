@@ -183,7 +183,7 @@
 ## 🔬 PHẦN 10: PLATFORM ENGINEERING & ADVANCED INFRASTRUCTURE (ĐỀ XUẤT NGHIÊN CỨU TIẾP THEO)
 
 ### 10.1 Internal Developer Platform (IDP) & Platform Engineering
-- [ ] **Platform as a Product:** Backstage/Port internals, self-service infrastructure, golden paths. Developer experience metrics, platform adoption strategies, và cognitive load reduction.
+- [x] **Platform as a Product:** Backstage/Port internals, self-service infrastructure, golden paths. Developer experience metrics, platform adoption strategies, và cognitive load reduction.
 - [ ] **GitOps at Scale:** ArgoCD/Flux architecture, application sets, progressive delivery. Multi-cluster management, drift detection, và automated rollback strategies.
 - [ ] **Infrastructure as Code Maturity:** Terraform/Pulumi advanced patterns, state management, module composition. Policy as Code (OPA/Gatekeeper), cost estimation, và compliance scanning.
 
