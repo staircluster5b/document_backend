@@ -33,7 +33,7 @@ Lộ trình nghiên cứu chuyên sâu để chuyển đổi từ Java Core lên
 - [x] Behavioral Patterns - Strategy, Observer, Template Method, Command
 
 ### 6. Distributed Systems Fundamentals
-- [ ] CAP Theorem & PACELC - Trade-offs in distributed systems
+- [x] CAP Theorem & PACELC - Trade-offs in distributed systems
 - [ ] Consistency Models - Strong, Eventual, Causal, Read-your-writes
 - [ ] Distributed Transactions - 2PC, 3PC, Saga Pattern, Outbox Pattern
 
