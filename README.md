@@ -144,7 +144,7 @@ research/
 
 ### 31. Advanced Consensus Mechanisms
 - [x] DAG-based Consensus - Hashgraph, IOTA Tangle, Avalanche protocol
-- [ ] Byzantine Fault Tolerance at Scale - HotStuff, Tendermint, Practical BFT variants
+- [x] Byzantine Fault Tolerance at Scale - HotStuff, Tendermint, Practical BFT variants
 - [ ] Consensusless Coordination - CRDTs, operational transforms, conflict-free replication
 
 ### 32. Edge-Native Architecture Patterns
