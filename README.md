@@ -183,7 +183,7 @@ research/
 - [x] WASM Edge Computing - Distributed WASM modules, state management, security sandboxing
 
 ### 28. Real-time & Streaming Systems at Scale
-- [ ] WebSocket Architecture - Horizontal scaling, connection pooling, fallback strategies
+- [x] WebSocket Architecture - Horizontal scaling, connection pooling, fallback strategies
 - [ ] Event Stream Processing - Flink vs Kafka Streams vs Spark Streaming, stateful operations
 - [ ] Reactive Systems - RSockets, backpressure, flow control, circuit breakers in streaming
 
