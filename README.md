@@ -67,7 +67,7 @@ Lộ trình nghiên cứu chuyên sâu để chuyển đổi từ Java Core lên
 ## 🌐 Phase 4: Microservices & Cloud-Native
 
 ### 12. Microservices Architecture
-- [ ] Service Decomposition - Domain-driven design, Bounded contexts
+- [x] Service Decomposition - Domain-driven design, Bounded contexts
 - [ ] Inter-service Communication - REST, gRPC, GraphQL comparison
 - [ ] Service Discovery - Eureka, Consul, Kubernetes DNS
 
