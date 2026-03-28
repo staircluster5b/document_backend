@@ -152,7 +152,26 @@ research/
 ### 23. Platform Engineering
 - [x] Internal Developer Platform - Backstage, platform APIs, self-service
 - [x] GitOps & Progressive Delivery - ArgoCD, Flux, canary/blue-green automation
-- [ ] Developer Experience - InnerSource, documentation-as-code, onboarding
+- [x] Developer Experience - InnerSource, documentation-as-code, onboarding
+
+---
+
+## 🧠 Phase 8: Advanced System Design & AI-Native Architecture (Extension)
+
+### 24. Event-Driven Architecture at Scale
+- [ ] Event Schema Evolution - Avro, Protobuf, Schema Registry strategies
+- [ ] Idempotency & Exactly-Once Semantics - Delivery guarantees, deduplication patterns
+- [ ] Event Choreography vs Orchestration - Trade-offs in distributed workflows
+
+### 25. AI-Native Backend Patterns
+- [ ] LLM Integration Architecture - RAG pipelines, embedding services, vector databases
+- [ ] Agent Systems Design - Multi-agent orchestration, tool calling, state management
+- [ ] AI Observability - LLM tracing, prompt versioning, cost optimization
+
+### 26. Advanced Database Patterns
+- [ ] CQRS & Event Sourcing Implementation - Aggregate design, projection rebuilding
+- [ ] Multi-Model Databases - Polyglot persistence strategies, data synchronization
+- [ ] Global Database Architecture - Spanner/CockroachDB, geo-partitioning, conflict resolution
 
 ---
 
